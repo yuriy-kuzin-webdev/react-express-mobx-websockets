@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 const Canvas = () => {
   return (
-    <div>Canvas</div>
+    <div className="canvas">Canvas</div>
   )
-}
+};
 
-export default Canvas
+export default Canvas;
